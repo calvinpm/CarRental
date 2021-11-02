@@ -162,7 +162,7 @@ void readUserPass()
 	}
 }
 
-void  ()
+void  password()
 {
 	Boarder();
 	
