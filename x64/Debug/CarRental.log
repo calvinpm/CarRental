@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\phamc\Source\Repos\CarRental\main.cpp(357,7): error C3861: 'getline': identifier not found
+C:\Users\phamc\Source\Repos\CarRental\main.cpp(383,7): error C3861: 'getline': identifier not found
+C:\Users\phamc\Source\Repos\CarRental\main.cpp(411,7): error C3861: 'getline': identifier not found
+C:\Users\phamc\Source\Repos\CarRental\main.cpp(469,9): error C3861: 'getline': identifier not found
+C:\Users\phamc\Source\Repos\CarRental\main.cpp(486,9): error C3861: 'getline': identifier not found
+C:\Users\phamc\Source\Repos\CarRental\main.cpp(503,9): error C3861: 'getline': identifier not found
+C:\Users\phamc\Source\Repos\CarRental\main.cpp(520,9): error C3861: 'getline': identifier not found
+C:\Users\phamc\Source\Repos\CarRental\main.cpp(1292,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
